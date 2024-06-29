@@ -1,0 +1,19 @@
+{
+  "name": "week4-assignment",
+  "version": "1.0.0",
+  "description": "Set up a simple web server using Express.js that can handle basic routing and middleware. Implement routes to respond to at least two different endpoints.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "author": "Anirban Mondal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
